@@ -1,7 +1,7 @@
 <?php
 session_start();
-include '../authdb/config.php';
-include '../authdb/opendb.php';?>
+include '../../authdb/config.php';
+include '../../authdb/opendb.php';?>
 <html>
 <title>Welcome</title>
       <h1>Welcome to the test site </h1>
@@ -20,4 +20,4 @@ include '../authdb/opendb.php';?>
     <div id="footerline"></div>
   </div>
 </html>
-<?php include '../authdb/closedb.php';?>
+<?php include '../../authdb/closedb.php';?>
