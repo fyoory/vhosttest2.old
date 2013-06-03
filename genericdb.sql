@@ -19,9 +19,9 @@
 -- Current Database: `genericdb`
 --
 
-CREATE DATABASE /*!32312 IF NOT EXISTS*/ `genericdb` /*!40100 DEFAULT CHARACTER SET utf8 */;
+-- CREATE DATABASE /*!32312 IF NOT EXISTS*/ `genericdb` /*!40100 DEFAULT CHARACTER SET utf8 */;
 
-USE `genericdb`;
+-- USE `genericdb`;
 
 --
 -- Table structure for table `stuff`
